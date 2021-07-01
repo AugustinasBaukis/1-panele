@@ -22,4 +22,4 @@ Design: [Panele](https://cdn.discordapp.com/attachments/850245533838868480/85024
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Augustinas](https://github.com/AugustinasBaukis)
