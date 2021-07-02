@@ -11,6 +11,7 @@ header {
     margin-bottom: 30px;
     
     
+    
 }
 
 header > img {
@@ -20,11 +21,29 @@ header > img {
 
 nav {
     float: right;
+    margin-top: 7px;
+    
+
 }
 
 a {
-
+    float: left;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #9E9E9E
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    border: 5px  solid transparent;
+    border-radius: 18px;
+    
 }
+
+a:last-child {
+    border-color: #9E9E9E;
+    text-transform: uppercase;
+} 
 
 main {
     display: inline-block;
@@ -47,7 +66,7 @@ h1 {
 }
 
 p {
-    
+
     margin: 0
     font-size: 32px;
     color: #9E9E9E;
